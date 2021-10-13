@@ -1,4 +1,4 @@
-FROM        openjdk:16-slim
+FROM        openjdk:16-slim-buster
 
 LABEL       author="Airee" maintainer="graham@cubeops.net"
 
